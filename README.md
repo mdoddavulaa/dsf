@@ -31,6 +31,8 @@ EDA nutzte die Analyse der Kundendaten, um wichtige Fragen zu beantworten, wie:
 - welcher Modus wird meistens zur Zahlung verwendet?
 - Wer kauft mehr Damen oder Herren ?
 
+
+
 ### Datenanalyse
 
 Fügen Sie einige interessante Code/Features hinzu:
@@ -40,8 +42,3 @@ name = df['Gender'].value_counts().index.tolist()
 value = df['Gender'].value_counts().tolist()
 
 ´´´
-
-### Recomendation
-
-- Invest
-- Focus
