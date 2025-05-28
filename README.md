@@ -1,5 +1,11 @@
 # Kundendaten_Analyse
 
+## Inhaltsverzeichnis
+
+- [Projektübersicht](#projektübersicht)
+- [Empfehlungen](#empfehlungen)
+- [Datenquellen](#datenquellen)
+  
 ### Projektübersicht
 
  Dieses Datenanalyseprojekt "Kundendaten-Analyse für Mall" verwendet Python, bei dem es das Ziel ist, wertvolle Erkenntnisse über die Präferenz von Menschen zu gewinnen, während man auf einigen historischen Daten kauft, die für die strategische Planung des Einkaufszentrums hilfreich sein werden, um den Gewinn zu steigern.
@@ -31,14 +37,41 @@ EDA nutzte die Analyse der Kundendaten, um wichtige Fragen zu beantworten, wie:
 - welcher Modus wird meistens zur Zahlung verwendet?
 - Wer kauft mehr Damen oder Herren ?
 
+### Ergebnisse/ Befunde
 
+Die Analyseergebnisse sind wie folgt zusammengefasst:
+
+- Die Mall-Verkaufs-Ejaffung nahm stetig zu, schillernd und nuvaly.
+- Männer sind die beste Kategorie des Permorings in Bezug auf Umsatz und Umsatz.
+  
+### Empfehlungen
+
+Basierend auf der Analyse empfehlen wir folgende Aktionen:
+- Investieren Sie in Marketing und Promotionen während der Hauptverkaufssaison, um den Umsatz zu maximieren.
+- Implementieren Sie eine Kundensegmentierungsstrategie, um Kunden effektiv anzusprechen.
 
 ### Datenanalyse
 
 Fügen Sie einige interessante Code/Features hinzu:
-
 ```py
 name = df['Gender'].value_counts().index.tolist()         
 value = df['Gender'].value_counts().tolist()
-
 ´´´
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
