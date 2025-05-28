@@ -9,7 +9,8 @@
 ### Projektübersicht
 
  Dieses Datenanalyseprojekt "Kundendaten-Analyse für Mall" verwendet Python, bei dem es das Ziel ist, wertvolle Erkenntnisse über die Präferenz von Menschen zu gewinnen, während man auf einigen historischen Daten kauft, die für die strategische Planung des Einkaufszentrums hilfreich sein werden, um den Gewinn zu steigern.
-
+ 
+![Plot]
 ### Datenquellen
 
 Custermer-Daten : Der primäre Datensatz, der für diese ANALYSE verwendet wird, ist die Datei "shopping-trends-updated.csv" mit detaillierten Informationen über Cusremer.
